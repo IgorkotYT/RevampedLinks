@@ -1,2 +1,2 @@
 # LINKS PLUGIN (/Discord, /Store, /Links & More) REVAMPED 
-![image]([https://www.spigotmc.org/attachments/revampedlinksthreaddesing-png.666806/](https://i.ibb.co/vZzfS3b/Revamped-Links-Thread-Desing.png))
+![image](https://i.ibb.co/vZzfS3b/Revamped-Links-Thread-Desing.png)
